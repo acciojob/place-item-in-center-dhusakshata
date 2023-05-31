@@ -4,6 +4,11 @@
 	display:flex;
 	flex-wrap:wrap;
 	justify-content:center;
+	
+	
+	align-item:center;
+}
+.item{
 	background-color:green;
 	width:100px;
 	height:100px;
